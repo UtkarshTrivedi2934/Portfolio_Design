@@ -8,4 +8,3 @@ Interactive Elements: Incorporating interactive elements like hover effects, but
 
 Project Showcases: Visual representation of this project, such as code snippets, screenshots, and descriptions, helps illustrate your capabilities and expertise. CSS can be used to create image galleries, slideshows, or animated elements to highlight work.
 
-LINK: https://utkarshtrivedi2934.github.io/Utk_Portfolio_Design/#about
